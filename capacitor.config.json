@@ -1,0 +1,9 @@
+{
+  "appId": "com.dragonanvil.game",
+  "appName": "Драконья наковальня",
+  "webDir": "www",
+  "backgroundColor": "#0d0908",
+  "android": {
+    "allowMixedContent": false
+  }
+}
